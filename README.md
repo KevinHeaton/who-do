@@ -18,7 +18,7 @@ The site will be deployed with Heroku.
 * Server Sided API's
 
 ## Deployed Website
-https://who-do-austin.herokuapp.com/login
+https://safe-scrubland-88358.herokuapp.com 
 
 ## Contribution
 Made with ❤️ by 
